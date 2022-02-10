@@ -41,6 +41,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    backface-visibility: hidden;
 }
 .front{
     z-index: 2;
